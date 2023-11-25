@@ -128,8 +128,8 @@ const Team = () => {
         />
         <MemberComponent
           img={img3}
-          name="Mandrin"
-          position="co-founder &amp; content creator"
+          name="Akshit"
+          position="Co-founder &amp; Frontend Developer"
         />
         <MemberComponent
           img={img9}
